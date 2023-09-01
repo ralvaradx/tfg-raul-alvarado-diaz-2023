@@ -1,7 +1,7 @@
 # tfg-raul-alvarado-diaz-2023
 Framework para la evaluación de algoritmos de Machine Learning para la mejora de la eficiencia en redes softwarizadas
 
-
+Para ejecutar este código se requiere Python 3.7, la biblioteca matplotlib y el entorno Mininet instalado.
 El código de este TFG contiene los siguientes ficheros, divididos en:
 
 ## 1. Código del framework
